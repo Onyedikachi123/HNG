@@ -1,1 +1,1 @@
-This is a README.txt for HNG internship program
+Hello World, this is Onyedikachi Shedrach Erugo with HNGi7 ID- 03614 using JavaScript for stage 2 task.
